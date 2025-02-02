@@ -7,11 +7,11 @@ A simple Personalized Daily Planner application built using Python's tkinter lib
 
 Users can add tasks with the following details:
 
-i.Task Name
+i. Task Name
 
-ii.Duration (in minutes)
+ii. Duration (in minutes)
 
-iii.Priority (1: High, 2: Medium, 3: Low)
+iii. Priority (1: High, 2: Medium, 3: Low)
  
 ### Task List:
 
